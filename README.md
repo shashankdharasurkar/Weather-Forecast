@@ -43,10 +43,6 @@ The **Weather Forecast** project consists of the following files:
 
 For a live demonstration of the **Weather Forecast** application, visit [Weather Forecast Live Demo](https://shashankdharasurkar.github.io/Weather-Forecast/).
 
-## Contributions
-
-The **Weather Forecast** project was solely developed by myself.
-
 ## Call-to-Action (CTA)
 
 Enjoying the **Weather Forecast** application? Feel free to:
